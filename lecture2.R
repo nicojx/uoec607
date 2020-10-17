@@ -6,3 +6,6 @@ usethis::browse_github_token()
 set_github_pat()
 
 #branches
+library(extrafont)
+font_import()
+loadfonts()
